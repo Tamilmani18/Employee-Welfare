@@ -32,9 +32,13 @@ const EmployeeWelfare = () => {
             Introduction
           </h2>
           <p className="text-gray-700 leading-relaxed max-w-2xl mx-auto">
-            The Employee Welfare Society (EWS) aims to provide financial and
-            moral support to employees, ensuring their well-being and growth
-            within the organization.
+            Blue Dart Aviation Limited employee welfare society started on 2009
+            for financial support to BDA employee's, who are all joined in BDA
+            as a permanent employee's they are all BDAEWS members, we have
+            registered society with sub registered office (SRO), Tambaram, every
+            year we use to do auditing of BDAEWS account and ITR filing with
+            income tax department, we have conducting AGM meeting every year
+            with all members to discuss for agenda.
           </p>
         </section>
 
