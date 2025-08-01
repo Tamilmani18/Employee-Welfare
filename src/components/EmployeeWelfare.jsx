@@ -29,16 +29,17 @@ const EmployeeWelfare = () => {
         {/* Step 2: Introduction */}
         <section className="mb-12 text-center">
           <h2 className="text-2xl font-bold text-blue-700 mb-3">
-            Introduction
+            Step 2: Introduction
           </h2>
-          <p className="text-gray-700 leading-relaxed max-w-2xl mx-auto">
-            Blue Dart Aviation Limited employee welfare society started on 2009
-            for financial support to BDA employee's, who are all joined in BDA
-            as a permanent employee's they are all BDAEWS members, we have
-            registered society with sub registered office (SRO), Tambaram, every
-            year we use to do auditing of BDAEWS account and ITR filing with
-            income tax department, we have conducting AGM meeting every year
-            with all members to discuss for agenda.
+          <p className="text-gray-700 leading-relaxed max-w-2xl mx-auto text-justify">
+            <strong>Blue Dart Employees Welfare Society (BDAEWS)</strong>{" "}
+            started on <strong>2009</strong> for financial support to BDA
+            employee's, who are all joined in BDA as a permanent employee's they
+            are all BDAEWS members, we have registered society with sub
+            registered office (SRO), Tambaram, every year we use to do auditing
+            of BDAEWS account and ITR filing with income tax department, we have
+            conducting AGM meeting every year with all members to discuss for
+            agenda.
           </p>
         </section>
 
