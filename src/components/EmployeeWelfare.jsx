@@ -45,7 +45,7 @@ const EmployeeWelfare = () => {
         {/* Step 3: Importance */}
         <section className="mb-12 text-center">
           <h2 className="text-2xl font-bold text-blue-700 mb-6">
-            Importance of Employee Welfare
+            Blue Dart Aviation Employees Welfare Society
           </h2>
           <div className="flex items-center justify-center gap-6 flex-wrap">
             <img
@@ -53,10 +53,11 @@ const EmployeeWelfare = () => {
               alt="Employee Welfare Society Logo"
               className="w-24 h-auto rounded shadow"
             />
-            <p className="text-gray-700 max-w-xl text-lg leading-relaxed">
-              Employee welfare plays a crucial role in improving morale,
-              reducing stress, and increasing productivity by offering health,
-              financial, and emotional support.
+            <p className="text-gray-700 max-w-xl text-lg leading-relaxed text-justify">
+              The Blue Dart Aviation Employees Welfare Society plays a vital
+              role in supporting the financial well-being of permanent employees
+              by offering assistance, promoting transparency, and fostering
+              unity through annual meetings and structured governance.
             </p>
           </div>
         </section>
@@ -66,11 +67,39 @@ const EmployeeWelfare = () => {
           <h2 className="text-2xl font-bold text-blue-700 mb-3">
             Authorized Personnel
           </h2>
-          <p className="text-gray-700 leading-relaxed max-w-2xl mx-auto">
+          <p className="text-gray-700 leading-relaxed max-w-2xl mx-auto mb-6">
             The society is managed by authorized personnel including the{" "}
-            <strong>Director, President</strong>, and <strong>Secretary</strong>
-            , who oversee all operations and approvals.
+            <strong>Director, President</strong>, <strong>Secretary</strong>,
+            and <strong>Treasurer</strong>, who oversee all operations and
+            approvals.
           </p>
+
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 max-w-xl mx-auto text-gray-800 font-medium">
+            <div>
+              <p>
+                <strong>President</strong>
+              </p>
+              <p>Parameshwaran P</p>
+            </div>
+            <div>
+              <p>
+                <strong>Secretary</strong>
+              </p>
+              <p>N. Palaniappan</p>
+            </div>
+            <div>
+              <p>
+                <strong>Treasurer</strong>
+              </p>
+              <p>Sankara Narayanan</p>
+            </div>
+            <div>
+              <p>
+                <strong>Joint Secretary</strong>
+              </p>
+              <p>Karikalan K</p>
+            </div>
+          </div>
         </section>
 
         {/* Step 5: Loan Application */}
